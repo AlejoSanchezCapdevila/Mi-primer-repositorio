@@ -9,7 +9,7 @@ from email.mime.text import MIMEText
 your_email = 'Ingrese el mail a utilizar'
 your_password = 'wvus oork tzmk uezl'
 
-recipent = 'Ingrese el mial del destinatario'
+recipent = 'Ingrese el mail del destinatario'
 
 message = MIMEMultipart()
 message['From'] = your_email
